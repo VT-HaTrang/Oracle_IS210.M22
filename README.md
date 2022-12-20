@@ -1,7 +1,7 @@
 # Oracle_IS210.M22
 Chào mọi người. Đây là một project đầu tay của tôi được thực hiện vào năm 2 đại học.
 
-#Mô tả thực tế và giải quyết👍
+# Mô tả thực tế👍
 
 Hệ thống quản lý cửa hàng hoa được tin học hóa công tác quản lý bằng phần mềm dựa trên yêu cầu thực tế của người dùng giúp nâng cao hiệu suất xử lý các chức năng như nhập hoa, bán hoa, quản lý thông tin khách hàng, quản lý nhân viên, chấm công và tính lương nhân viên, tránh rủi ro mất dữ liệu,… Tại cửa hàng đang dùng phần mềm quản lý hàng để quản lý một số lượng lớn sản phẩm. Trung bình mỗi ngày bộ phận bán hàng xử lý nhiều mẫu tin nên tốc độ truy xuất dữ liệu không còn nhanh như trước, hiện tại và tương lai không thể đáp ứng được nhu cầu cho cửa hàng. Ngoài ra các vấn đề thay đổi đơn vị tính và xử lý số lượng lẻ đối với một số mặt hàng như: hoa lẻ, thiệp, các sản phẩm theo các dịp lễ,.... tại cửa hàng chưa được giải quyết ổn thỏa.	
 
